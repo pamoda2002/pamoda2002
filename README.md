@@ -14,6 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pamoda-sandanayaka-371052389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pamoda sandanayaka" height="30" width="40" /></a>
+  <a href="https://instagram.com/pamo_sandanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamo_sandanayaka" height="30" width="40" /></a>
+<a href="https://fb.com/pamoda sandanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pamoda sandanayaka" height="30" width="40" /></a>
+</p
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,12 +27,11 @@
 
 <div style="text-align: left;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pamoda2002&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=34d399&currStreakLabel=10b981&currStreakNum=ecfdf5&sideLabels=ecfdf5&sideNums=ecfdf5&dates=6b7280" 
-    alt="GitHub Streak Stats" 
-    align="left"
-    width="480"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pamoda2002&hide_border=true&background=f0f4f8&ring=10b981&fire=34d399&currStreakLabel=10b981&currStreakNum=0f172a&sideLabels=334155&sideNums=0f172a&dates=64748b&border_radius=12" 
+    alt="Pamoda's GitHub Streak" 
+    width="495"
   />
-</div>
+</div>>
 
 
 
